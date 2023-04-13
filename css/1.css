@@ -1,0 +1,46 @@
+﻿img[class="logo"]{
+	 border-radius: 100px 100px 100px 100px;
+	 padding: 0px 0px 0px 0%;
+	 margin: 0% 10%;
+}
+.create-line {
+  height: 100%;
+  border-left: 2px solid #99958C;
+  margin: 0px 5%;
+}
+.plan{
+	padding: 0px 0px 0px 1%;
+	max-width: 100%;
+}
+.time1{
+	padding: 0px 1% 0px 1%;
+	margin: 0px 1%;
+	background-color: #DBD7D2;
+}
+.silki{
+	padding: 0px 10% 0px 0%;
+}
+.logodiv{
+	padding: 1% 0% 0px 0%;
+}
+.informatics{
+	align: center;
+	padding: 0% 0% 0px 0%;
+}
+.texti{
+	color: #FFFFFF;
+	padding: 5% 6% 5% 6%;
+	border-radius: 100px 0px 100px 0px;
+	margin: 0px 5%;
+	background-color: #154a8f;
+}
+a { 
+    text-decoration: none;
+   } 
+b:hover {
+    color: #154a8f;
+	text-decoration: underline
+}
+.t1{
+	margin: 10% 10%;
+}
