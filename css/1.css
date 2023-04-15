@@ -1,4 +1,7 @@
-﻿img[class="logo"]{
+﻿@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+img[class="logo"]{
 	 border-radius: 100px 100px 100px 100px;
 	 padding: 0px 0px 0px 0%;
 	 margin: 0% 10%;
@@ -65,9 +68,9 @@ td[class="none"]{
 }
 .texti{
 	color: #FFFFFF;
-	padding: 5% 6% 5% 6%;
+	padding: 5% 8% 5% 8%;
 	border-radius: 100px 0px 100px 0px;
-	margin: 0px 5%;
+	margin: 0% 5%;
 	background-color: #154a8f;
 	font-size: 25px;
 }
@@ -97,15 +100,6 @@ img[class="logo"]{
   height: 100%;
   border-left: 2px solid #99958C;
   margin: 0px 5%;
-}
-tr[class="top"]{
-	  position: sticky;
-	top: 0;
-    float: center;
-	background: #FFFFFF;
-}
-.silki2{
-	padding: 0% 0px 4% 0px;
 }
 }
 
@@ -155,15 +149,6 @@ img[class="logo"]{
   height: 100%;
   border-left: 2px solid #99958C;
   margin: 0px 5%;
-}
-tr[class="top"]{
-	  position: sticky;
-	top: 0;
-    float: center;
-	background: #FFFFFF;
-}
-.silki2{
-	padding: 0% 0px 4% 0px;
 }
 }
 
