@@ -83,6 +83,7 @@ td[class="silkinone"]{
 }
 font[class="texti"]{
 	width: 100%;
+	top: 0;
 }
 img[class="logo"]{
 	align: center;
@@ -96,6 +97,15 @@ img[class="logo"]{
   height: 100%;
   border-left: 2px solid #99958C;
   margin: 0px 5%;
+}
+tr[class="top"]{
+	  position: sticky;
+	top: 0;
+    float: center;
+	background: #FFFFFF;
+}
+.silki2{
+	padding: 0% 0px 4% 0px;
 }
 }
 
@@ -131,6 +141,7 @@ td[class="silkinone"]{
 }
 font[class="texti"]{
 	width: 100%;
+	top: 0;
 }
 img[class="logo"]{
 	align: center;
@@ -144,6 +155,15 @@ img[class="logo"]{
   height: 100%;
   border-left: 2px solid #99958C;
   margin: 0px 5%;
+}
+tr[class="top"]{
+	  position: sticky;
+	top: 0;
+    float: center;
+	background: #FFFFFF;
+}
+.silki2{
+	padding: 0% 0px 4% 0px;
 }
 }
 
