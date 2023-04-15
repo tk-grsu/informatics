@@ -44,3 +44,117 @@ b:hover {
 .t1{
 	margin: 10% 10%;
 }
+.conteiner{
+}
+
+@media (min-width: 321px) and (max-width: 335px) {
+
+.plan2{
+	padding: 0px 0px 0px 1%;
+	max-width: 100%;
+}
+td[class="plan"]{
+	display: none;
+}
+td[class="none"]{
+	display: none;
+}
+.texti{
+	color: #FFFFFF;
+	padding: 5% 6% 5% 6%;
+	border-radius: 100px 0px 100px 0px;
+	margin: 0px 5%;
+	background-color: #154a8f;
+	font-size: 25px;
+}
+td[class="texti1"]{
+	width: 100%;
+	height: 100px;
+}
+td[class="url"]{
+	width: 100%;
+}
+td[class="silkinone"]{
+	display: none;
+}
+font[class="texti"]{
+	width: 100%;
+}
+img[class="logo"]{
+	align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 1%;
+}
+.create-line2 {
+  height: 100%;
+  border-left: 2px solid #99958C;
+  margin: 0px 5%;
+}
+}
+
+@media (min-width: 336px) and (max-width: 480px) {
+
+.plan2{
+	padding: 0px 0px 0px 1%;
+	max-width: 100%;
+}
+td[class="plan"]{
+	display: none;
+}
+td[class="none"]{
+	display: none;
+}
+.texti{
+	color: #FFFFFF;
+	padding: 5% 6% 5% 6%;
+	border-radius: 100px 0px 100px 0px;
+	margin: 0px 5%;
+	background-color: #154a8f;
+	font-size: 27px;
+}
+td[class="texti1"]{
+	width: 100%;
+	height: 100px;
+}
+td[class="url"]{
+	width: 100%;
+}
+td[class="silkinone"]{
+	display: none;
+}
+font[class="texti"]{
+	width: 100%;
+}
+img[class="logo"]{
+	align: center;
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+	margin-bottom: 5%;
+	margin-top: 1%;
+}
+.create-line2 {
+  height: 100%;
+  border-left: 2px solid #99958C;
+  margin: 0px 5%;
+}
+}
+
+@media (min-width: 481px) and (max-width: 1900px) {
+	font[class="url"]{
+		display: none;
+	}
+	.texti{
+	color: #FFFFFF;
+	padding: 5% 6% 5% 6%;
+	border-radius: 100px 0px 100px 0px;
+	margin: 0px 5%;
+	background-color: #154a8f;	
+}
+.silki2{
+	display:none;
+}
+}
