@@ -52,7 +52,10 @@ b:hover {
 .t1{
 	margin: 10% 10%;
 }
-.conteiner{
+div[class="conteiner"]{
+	margin: 0px 0px 0px 0px;
+	margin-left: auto;
+	margin-right: auto;
 }
 body{
 	padding: 0px 0px 0px 0px;
@@ -66,8 +69,36 @@ body{
 														margin: 1% 0%;
 														}
 font[class="grupa"]{
-
+	
 }
+.t1{
+	margin: 40px 20px;
+}
+table{
+	margin: 0px 0px 0px 0px;
+}
+
+
+button {
+  width: 230px;
+  height: 60px;
+  border: 3px solid #315cfd;
+  border-radius: 45px;
+  transition: all 0.3s;
+  cursor: pointer;
+  background: white;
+  font-size: 1.2em;
+  font-weight: 550;
+  font-family: 'Montserrat', sans-serif;
+}
+
+button:hover {
+  background: #315cfd;
+  color: white;
+  font-size: 1.3em;
+}
+
+
 
 
 @media (min-width: 1px) and (max-width: 335px) {
@@ -92,9 +123,7 @@ td[class="texti1"]{
 	width: 100%;
 	height: 100px;
 }
-td[class="url"]{
-	width: 100%;
-}
+
 td[class="silkinone"]{
 	display: none;
 }
@@ -110,17 +139,30 @@ img[class="logo"]{
 	margin-bottom: 5%;
 	margin-top: 3%;
 }
-.silki2{
-	padding: 0% 0px 3% 0px;
-}
-.texts{
-	margin: 1% 4%;
-}
-svg[class="svg"]{
-	width: 18px;
-	height: 13px;
-}
 
+table[class="table"]{
+	weight: 50%;
+	background-size: 50%;
+	margin: 0px 10px 10px 0px;
+}
+.none3{
+	display: none;
+}
+tr[class="100%"]{
+	max-width: 50%;
+}
+tr[class="top"]{
+	width: 321px;
+}
+.conteiner{
+	width: 100%;
+}
+img[class="tdp"]{
+	width: 250px;
+}
+img[class="tpo"]{
+	width: 260px;
+}
 }
 
 @media (min-width: 336px) and (max-width: 480px) {
@@ -172,6 +214,24 @@ svg[class="svg"]{
 	width: 18px;
 	height: 13px;
 }
+.none3{
+	display: none;
+}
+tr[class="100%"]{
+	max-width: 50%;
+}
+tr[class="top"]{
+	width: 321px;
+}
+.conteiner{
+	width: 100%;
+}
+img[class="tdp"]{
+	width: 250px;
+}
+img[class="tpo"]{
+	width: 260px;
+}
 }
 
 @media (min-width: 481px) and (max-width: 2000px) {
@@ -188,13 +248,19 @@ svg[class="svg"]{
 .silki2{
 	display:none;
 }
+.none2{
+	display: none;
+}
 }
 
 @media (min-width: 993px) and (max-width: 1600px) {
 .conteiner{
-	width: 1366px;
+	width: 1360px;
 	margin-left: auto;
 	margin-right: auto;
+}
+.none2{
+	display: none;
 }
 }
 
@@ -294,5 +360,8 @@ div[class="3"]{
 svg[class="svg"]{
 	width: 38px;
 	height: 18px;
+}
+.none2{
+	display: none;
 }
 }
