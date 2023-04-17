@@ -163,6 +163,15 @@ img[class="tdp"]{
 img[class="tpo"]{
 	width: 260px;
 }
+iframe[class="none3"]{
+	display: none;
+}
+div[class="1234"]{
+	display: none;
+}
+iframe[class="223"]{
+	width: 310px;
+}
 }
 
 @media (min-width: 336px) and (max-width: 480px) {
@@ -231,6 +240,12 @@ img[class="tdp"]{
 }
 img[class="tpo"]{
 	width: 260px;
+}
+iframe[class="none3"]{
+	display: none;
+}
+div[class="1234"]{
+	display: none;
 }
 }
 
