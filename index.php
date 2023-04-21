@@ -75,7 +75,7 @@
             </div>
             </div>
             </div>
-    
+            </div>
 		<dir align="right" valign=bottom class="t1">
 			<A HREF="https://www.instagram.com/tk.grsu/" target="_blank" class="btn"><IMG src="photo/instagram.png" width=31 class="url"></A>
 			&nbsp
