@@ -3,7 +3,7 @@
 <HTML lang="ru">
 <head>
 <meta charset="utf-8">
-<title>План</title>
+<title>Новости</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
